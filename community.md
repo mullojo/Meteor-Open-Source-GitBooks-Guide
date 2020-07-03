@@ -8,8 +8,6 @@ We can actively share what GitBooks we are creating and working on together.  I 
 
 We can use GitHub handles to keep track of contributors to start.
 
-
-
 | Book Name \(w/ GitBook Link\) | Status | Contributors \(w/ GitHub Link\) | Topics \(Tags\) |
 | :--- | :--- | :--- | :--- |
 | Meteor Open Source GitBook Guide | WIP | [mullojo](https://github.com/mullojo) | community |
