@@ -2,7 +2,7 @@
 
 * [Meteor Open Source GitBooks](README.md)
 * [Introduction](introduction.md)
+* [Community](community.md)
 * [Open Source Licenses](open-source-licenses.md)
 * [Tips](tips.md)
-* [Community](community.md)
 
