@@ -6,9 +6,7 @@ description: >-
 
 # Open Source Licenses
 
-
-
-￼￼When you sync your GitBook with a newly created GitHub repository on your own GitHub account, you should select "Add a license" and select **MIT License**.
+When you sync your GitBook with a newly created GitHub repository on your own GitHub account, you should select "Add a license" and select **MIT License**.
 
 An **MIT License** is the most permission granting open source license and the same license used by Meteor.
 
