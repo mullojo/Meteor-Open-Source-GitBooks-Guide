@@ -4,4 +4,5 @@
 * [Introduction](introduction.md)
 * [Open Source Licenses](open-source-licenses.md)
 * [Tips](tips.md)
+* [Community](community.md)
 
