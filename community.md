@@ -10,8 +10,11 @@ We can use GitHub handles to keep track of contributors to start.
 
 
 
-|  |  |
-| :--- | :--- |
-|  |  |
-|  |  |
+| Book Name \(w/ GitBook Link\) | Status | Contributors \(w/ GitHub Link\) | Topics \(Tags\) |
+| :--- | :--- | :--- | :--- |
+| Meteor Open Source GitBook Guide | WIP | [mullojo](https://github.com/mullojo) | community |
+| Vue + Meteor | WIP | [mullojo](https://github.com/mullojo) | vue, beginner |
+| Meteor Microservices | WIP | [jankapunkt](https://github.com/jankapunkt) | microservices |
+| Discover Meteor | WIP | [SachaG](https://github.com/SachaG) | blaze, mongodb |
+| **You're book** | **Idea** | **you** | **anything** |
 

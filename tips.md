@@ -1,3 +1,7 @@
+---
+description: Some handy tips that for editing GitBooks that were not instantly obvious
+---
+
 # Tips
 
 ### Make your GitBook Rich with elements
