@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Vision](vision.md)
+* [Meteor Open Source GitBooks](README.md)
+* [Introduction](introduction.md)
 * [Open Source Licenses](open-source-licenses.md)
 * [Tips](tips.md)
 
