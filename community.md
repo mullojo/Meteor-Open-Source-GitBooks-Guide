@@ -16,3 +16,5 @@ We can use GitHub handles to keep track of contributors to start.
 | Discover Meteor | WIP | [SachaG](https://github.com/SachaG) | blaze, mongodb |
 | **You're book** | **Idea** | **you** | **anything** |
 
+We'll figure out an easy process to manage permission for contributors that you might like to join in creating your book.  For now an **admin** role it given to the original book creator, and it's probably recommended that people who want to contribute on books are given a **writer** role.
+
